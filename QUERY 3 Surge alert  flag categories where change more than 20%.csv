@@ -1,0 +1,31 @@
+category,billing_month,total_spend,pct_change,flag
+Broadband,2026-04,817,0.4,Normal
+DTH/Cable,2026-04,397,13.1,Normal
+Electricity,2026-04,1514,-12.3,Normal
+Gas,2026-04,739,10.3,Normal
+"Mobile Recharge",2026-04,405,-2.4,Normal
+"OTT Subscriptions",2026-04,926,-15.0,Normal
+Broadband,2026-05,854,4.5,Normal
+DTH/Cable,2026-05,352,-11.3,Normal
+Electricity,2026-05,1702,12.4,Normal
+Gas,2026-05,623,-15.7,Normal
+"Mobile Recharge",2026-05,413,2.0,Normal
+"OTT Subscriptions",2026-05,907,-2.1,Normal
+Broadband,2026-06,864,1.2,Normal
+DTH/Cable,2026-06,388,10.2,Normal
+Electricity,2026-06,1519,-10.8,Normal
+Gas,2026-06,743,19.3,Normal
+"Mobile Recharge",2026-06,412,-0.2,Normal
+"OTT Subscriptions",2026-06,1268,39.8,Surge
+Broadband,2026-07,883,2.2,Normal
+DTH/Cable,2026-07,394,1.5,Normal
+Electricity,2026-07,2737,80.2,Surge
+Gas,2026-07,707,-4.8,Normal
+"Mobile Recharge",2026-07,414,0.5,Normal
+"OTT Subscriptions",2026-07,1039,-18.1,Normal
+Broadband,2026-08,875,-0.9,Normal
+DTH/Cable,2026-08,367,-6.9,Normal
+Electricity,2026-08,1629,-40.5,Surge
+Gas,2026-08,640,-9.5,Normal
+"Mobile Recharge",2026-08,444,7.2,Normal
+"OTT Subscriptions",2026-08,901,-13.3,Normal

@@ -1,0 +1,44 @@
+
+INSERT INTO transactions (txn_id, billing_month, category, biller_name, amount) VALUES
+(1000, '2026-03', 'Electricity', 'Tata Power', 1727),
+(1001, '2026-03', 'Broadband', 'Airtel Xstream', 814),
+(1002, '2026-03', 'DTH/Cable', 'Tata Play', 351),
+(1003, '2026-03', 'OTT Subscriptions', 'Netflix+Prime+Hotstar', 1089),
+(1004, '2026-03', 'Gas', 'Indraprastha Gas', 670),
+(1005, '2026-03', 'Mobile Recharge', 'Jio', 415),
+(1006, '2026-04', 'Electricity', 'Tata Power', 1514),
+(1007, '2026-04', 'Broadband', 'Airtel Xstream', 817),
+(1008, '2026-04', 'DTH/Cable', 'Tata Play', 397),
+(1009, '2026-04', 'OTT Subscriptions', 'Netflix+Prime+Hotstar', 926),
+(1010, '2026-04', 'Gas', 'Indraprastha Gas', 739),
+(1011, '2026-04', 'Mobile Recharge', 'Jio', 405),
+(1012, '2026-05', 'Electricity', 'Tata Power', 1702),
+(1013, '2026-05', 'Broadband', 'Airtel Xstream', 854),
+(1014, '2026-05', 'DTH/Cable', 'Tata Play', 352),
+(1015, '2026-05', 'OTT Subscriptions', 'Netflix+Prime+Hotstar', 907),
+(1016, '2026-05', 'Gas', 'Indraprastha Gas', 623),
+(1017, '2026-05', 'Mobile Recharge', 'Jio', 413),
+(1018, '2026-06', 'Electricity', 'Tata Power', 1519),
+(1019, '2026-06', 'Broadband', 'Airtel Xstream', 864),
+(1020, '2026-06', 'DTH/Cable', 'Tata Play', 388),
+(1021, '2026-06', 'OTT Subscriptions', 'Netflix+Prime+Hotstar', 1268),
+(1022, '2026-06', 'Gas', 'Indraprastha Gas', 743),
+(1023, '2026-06', 'Mobile Recharge', 'Jio', 412),
+(1024, '2026-07', 'Electricity', 'Tata Power', 2737),
+(1025, '2026-07', 'Broadband', 'Airtel Xstream', 883),
+(1026, '2026-07', 'DTH/Cable', 'Tata Play', 394),
+(1027, '2026-07', 'OTT Subscriptions', 'Netflix+Prime+Hotstar', 1039),
+(1028, '2026-07', 'Gas', 'Indraprastha Gas', 707),
+(1029, '2026-07', 'Mobile Recharge', 'Jio', 414),
+(1030, '2026-08', 'Electricity', 'Tata Power', 1629),
+(1031, '2026-08', 'Broadband', 'Airtel Xstream', 875),
+(1032, '2026-08', 'DTH/Cable', 'Tata Play', 367),
+(1033, '2026-08', 'OTT Subscriptions', 'Netflix+Prime+Hotstar', 901),
+(1034, '2026-08', 'Gas', 'Indraprastha Gas', 640),
+(1035, '2026-08', 'Mobile Recharge', 'Jio', 444);
+
+
+
+
+
+

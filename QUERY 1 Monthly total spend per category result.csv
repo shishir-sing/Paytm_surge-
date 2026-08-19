@@ -1,0 +1,37 @@
+category,billing_month,total_spend
+Broadband,2026-03,814
+Broadband,2026-04,817
+Broadband,2026-05,854
+Broadband,2026-06,864
+Broadband,2026-07,883
+Broadband,2026-08,875
+DTH/Cable,2026-03,351
+DTH/Cable,2026-04,397
+DTH/Cable,2026-05,352
+DTH/Cable,2026-06,388
+DTH/Cable,2026-07,394
+DTH/Cable,2026-08,367
+Electricity,2026-03,1727
+Electricity,2026-04,1514
+Electricity,2026-05,1702
+Electricity,2026-06,1519
+Electricity,2026-07,2737
+Electricity,2026-08,1629
+Gas,2026-03,670
+Gas,2026-04,739
+Gas,2026-05,623
+Gas,2026-06,743
+Gas,2026-07,707
+Gas,2026-08,640
+"Mobile Recharge",2026-03,415
+"Mobile Recharge",2026-04,405
+"Mobile Recharge",2026-05,413
+"Mobile Recharge",2026-06,412
+"Mobile Recharge",2026-07,414
+"Mobile Recharge",2026-08,444
+"OTT Subscriptions",2026-03,1089
+"OTT Subscriptions",2026-04,926
+"OTT Subscriptions",2026-05,907
+"OTT Subscriptions",2026-06,1268
+"OTT Subscriptions",2026-07,1039
+"OTT Subscriptions",2026-08,901
